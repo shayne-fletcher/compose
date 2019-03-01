@@ -1,0 +1,7 @@
+*.cls
+*.cut
+*.aux
+*.log
+*.out
+*.pdf
+*.DS_Store
